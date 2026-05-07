@@ -10,7 +10,7 @@ Live App:
 ## 📸 Dashboard Preview
 
 <p align="center">
-  <img src="assets/dashboard.png" width="750"/>
+  <img src="dashboard.png" width="750"/>
 </p>
 
 ---
